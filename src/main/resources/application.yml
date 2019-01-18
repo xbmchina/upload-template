@@ -1,0 +1,7 @@
+upload:
+  file-path: /home/upload/
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/
+server:
+  port: 8080
